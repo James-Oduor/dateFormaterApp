@@ -16,9 +16,7 @@ A simple web application that demonstrates how to use the JavaScript `Date` obje
   3. **Month, Day, Year, Hours, Minutes (mm-dd-yyyy h:mm)**
 - Fully responsive design for mobile devices.
 
-## Preview
 
-![Project Preview](./preview.png)
 
 ## How It Works
 

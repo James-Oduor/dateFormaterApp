@@ -8,13 +8,13 @@
 
 :root {
   --dark-grey: #0a0a23;
-  --white: #ffffff;
-  --yellow: #f1be32;
+  --white: #00897B;
+  --yellow: #00897B;
 }
 
 body {
-  color: var(--white);
-  background-color: var(--dark-grey);
+  color: #212121;
+  background-color: #FAFAFA;
 }
 
 .title-container {
@@ -38,7 +38,7 @@ body {
   margin: auto;
   width: 150px;
   height: 10px;
-  background-color: var(--yellow);
+  background-color: #FAFAFA;
 }
 
 .dropdown-container {
@@ -57,7 +57,7 @@ select {
   cursor: pointer;
   background-color: var(--white);
   border: none;
-  color: var(--dark-grey);
+  color: #212121;
   appearance: none;
   padding: 10px;
   padding-right: 38px;

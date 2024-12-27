@@ -1,7 +1,8 @@
 # dateFormaterApp
 This project demonstrates how to use the JavaScript Date object to create a dynamic date formatter. Users can select different date formats, and the application will display the current date in the chosen format. This is the hyperlink for this project https://date-formater-project-app.netlify.app/
 
-![image](https://github.com/user-attachments/assets/dbdd1cc9-a9e0-47bf-bca1-e0003e9a3ac5)
+![image](https://github.com/user-attachments/assets/030f1f5f-f3db-48ea-98ad-bb8981ad764e)
+
 
  # Learn the Date Object by Building a Date Formatter
 
